@@ -1,0 +1,21 @@
+﻿  Component.cpp
+  MachineActual.cpp
+  MachineFactory1.cpp
+  MachineFactory2.cpp
+  MachineOwner.cpp
+  Motor.cpp
+  Pulley.cpp
+C:\Users\avnia_000\Documents\1MSU Documents\CSE335\CanadianExperience\MachineLib\Pulley.cpp(54,95): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+C:\Users\avnia_000\Documents\1MSU Documents\CSE335\CanadianExperience\MachineLib\Pulley.cpp(54,79): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+C:\Users\avnia_000\Documents\1MSU Documents\CSE335\CanadianExperience\MachineLib\Pulley.cpp(55,95): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+C:\Users\avnia_000\Documents\1MSU Documents\CSE335\CanadianExperience\MachineLib\Pulley.cpp(55,79): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+C:\Users\avnia_000\Documents\1MSU Documents\CSE335\CanadianExperience\MachineLib\Pulley.cpp(63,97): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+C:\Users\avnia_000\Documents\1MSU Documents\CSE335\CanadianExperience\MachineLib\Pulley.cpp(63,72): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+C:\Users\avnia_000\Documents\1MSU Documents\CSE335\CanadianExperience\MachineLib\Pulley.cpp(64,97): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+C:\Users\avnia_000\Documents\1MSU Documents\CSE335\CanadianExperience\MachineLib\Pulley.cpp(64,72): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+  Shape.cpp
+  Sink.cpp
+  Snow.cpp
+  SnowBlower.cpp
+  Generating Code...
+  MachineLib.vcxproj -> C:\Users\avnia_000\Documents\1MSU Documents\CSE335\CanadianExperience\Debug\MachineLib.dll
